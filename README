@@ -1,0 +1,11 @@
+## runnerGit-amd64 - linux
+
+1 - Tem que alterar as informações dentro do start.sh para o seu repositorio, conforme tem nas instruções do proprio git. Inclusive alterando o TOKEN
+2 - Alterar no docker file o DOCKER_GID para o Groupid do user docker no sistema
+3 - Rodar docker compose
+
+## runnerGit-arm64 - linux
+
+1 - Tem que alterar as informações dentro do start.sh para o seu repositorio, conforme tem nas instruções do proprio git. Inclusive alterando o TOKEN
+2 - Alterar no docker file o DOCKER_GID para o Groupid do user docker no sistema
+3 - Rodar docker compose
